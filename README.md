@@ -1,8 +1,9 @@
-# MyIntroToSQLWorkingWithStringAndNumericDataTypes
+# MyIntroToDatabases
 SQL seemed complex to me though I had previously never taken the time to know anything about it other than how bland the screen looked when someone was working with it. This was my first interaction with a DBMS with an open mind. Creating my first database and table, this is when I realized, I will fall love SQL
 
 The goal of these tasks is to work with string values and numerical values in a database . Focusing on the two most used string datatypes in SQL, CHAR and VARCHAR and two main variations of numeric data types INT and DECIMAL
 
+## Mission 1:
 Task 1
 
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices. He wants to create a database and a devices table to store key information about mobile devices. This information includes: 
