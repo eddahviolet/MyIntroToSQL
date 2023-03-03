@@ -9,9 +9,7 @@ Task 1
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices. He wants to create a database and a devices table to store key information about mobile devices. This information includes: 
 
 •	The device ID or number
-
 •	The device name
-
 •	And the price of the device
 
 The first step is creating a database
@@ -35,9 +33,7 @@ Task 2
 Mr. Carl Merkel wants to create a new table to store key information about customers such as 
 
 •	username
-
 •	full name 
-
 •	email address
 
 Create the customers table with the required columns
