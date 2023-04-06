@@ -111,7 +111,26 @@ Display the columns from the Address table to show the constraints used
 
 ![31](https://user-images.githubusercontent.com/106580846/230358819-f086190b-9455-4cef-8317-3c1ba305bac9.png)
 
+## Mission 4: Create Database, create table and insert data
+#### Task 1
 
+Mr. John Ericson owns a small bookshop. He decides to build a digital database to maintain data about his customers electronically instead of using pen and paper.
+###### Steps:
 
+Create a database called bookshop
+
+![40](https://user-images.githubusercontent.com/106580846/230362573-94bec6dc-3609-4cc4-8cc4-373fdd30eeda.png)
+
+Create a table called 'Customers' with Customer ID, Name, and Address  
+
+![41](https://user-images.githubusercontent.com/106580846/230363118-ec9b4dd6-e2a5-40d2-8dcd-445beb3af8cf.png)
+
+Insert a record of data for two customers
+
+![43](https://user-images.githubusercontent.com/106580846/230364514-dcd34db6-797f-4136-8600-4445cec9a415.png)
+
+To display the content of the Customers table after inserting the data.
+
+![45](https://user-images.githubusercontent.com/106580846/230364806-359d2d46-291d-43be-b5df-113961dee560.png)
 
 
