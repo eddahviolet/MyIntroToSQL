@@ -1,16 +1,16 @@
 # MyIntroToDatabases
 SQL seemed complex to me though I had previously never taken the time to know anything about it other than how bland the screen looked when someone was working with it. This was my first interaction with a DBMS with an open mind. Creating my first database and table, this is when I realized, I will fall love SQL
 
-The goal of these tasks is to work with string values and numerical values in a database . Focusing on the two most used string datatypes in SQL, CHAR and VARCHAR and two main variations of numeric data types INT and DECIMAL
+This repo is my first exercises working with MySQL. Enjoy
 
-## Mission 1:
-Task 1
+## Mission 1:: Working with numerical values in a database. 
+#### Task 1
 
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices. He wants to create a database and a devices table to store key information about mobile devices. This information includes: 
 
-•	The device ID or number
-•	The device name
-•	And the price of the device
+*	The device ID or number
+*	The device name
+*	And the price of the device
 
 The first step is creating a database
 
@@ -28,7 +28,35 @@ Display columns from the table to display the numerical data types used (int & d
 
 ![columns devices](https://user-images.githubusercontent.com/106580846/204785976-31a7dfc3-a964-4fe8-9f4a-9103a5f0e3a7.png)
 
-Task 2
+#### Task 2
+
+Mr. Merkel wants to create another basic table in the database to store data about the stock of the devices including device ID, quantity available in the stock and total available cost of the quantity. 
+
+*	Identify an appropriate table name to create, given the information provided. 
+*	Identify columns that should be available in this table and define them with the appropriate data types.
+*	Write the full SQL statement that creates the table and columns.
+
+table name: Stock 
+
+Device id INT
+
+Quantity INT 
+
+Total cost: Decimal
+
+Create the stock table with the required columns
+
+![11](https://user-images.githubusercontent.com/106580846/230353000-21565a96-d23e-4b81-9c25-bc538d18b7b6.png)
+
+Display columns from the table to display the numerical data types used (int & decimal)
+
+![12](https://user-images.githubusercontent.com/106580846/230353144-e3b3e987-bd9a-437a-ba3e-b8d33f23db55.png)
+
+
+
+
+
+
 
 Mr. Carl Merkel wants to create a new table to store key information about customers such as 
 
