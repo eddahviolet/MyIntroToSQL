@@ -133,4 +133,26 @@ To display the content of the Customers table after inserting the data.
 
 ![45](https://user-images.githubusercontent.com/106580846/230364806-359d2d46-291d-43be-b5df-113961dee560.png)
 
+## Mission 5: Record deletion
+Mr. John Ericson owns a small bookshop. His bookshop database includes a “Customers” table that contains the bookshop’s customers’ details. The image below displays all records of data stored in the customers’ table.
+
+![image](https://user-images.githubusercontent.com/106580846/230365221-4cc124f7-ffb6-4bfe-bf6f-cf2156b36c44.png)
+
+#### Task 1
+Mr. Ericson wants to remove the customer record of Jimmy with ID number 3
+
+![50](https://user-images.githubusercontent.com/106580846/230366810-25ff0780-4a15-4bf7-bf55-087404a9b700.png)
+
+To view the content of the customers table after deleting the record with CustomerID = 3:
+
+![51](https://user-images.githubusercontent.com/106580846/230366857-053a3e6a-f1ed-45a8-89f0-28b8891520a7.png)
+
+#### Task 2
+Mr. Ericson wants to delete the record of Yasmine. 
+
+![52](https://user-images.githubusercontent.com/106580846/230367362-692e36fa-2a39-4ed9-a095-6ac966648ad9.png)
+
+To view the content of the customers table after deleting the record with CustomerName = "Yasmine":
+
+![54](https://user-images.githubusercontent.com/106580846/230367634-834d67c6-d28d-4ceb-9072-90a847622adf.png)
 
