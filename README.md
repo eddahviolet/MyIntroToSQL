@@ -80,7 +80,7 @@ The data types for the columns will be:
 * Feedback id: CHAR(8)
 * Category: VARCHAR(100)
 * Comment:  TEXT(500)  
-* 
+
 Create the Feedback table with the required columns
 
 ![20](https://user-images.githubusercontent.com/106580846/230355181-b22fab00-bc36-4dba-bbdb-c35094dab123.png)
@@ -88,4 +88,30 @@ Create the Feedback table with the required columns
 Display the columns from the Feedback table to show the string datatypes used 
 
 ![21](https://user-images.githubusercontent.com/106580846/230355222-249a20dd-6cfb-4652-9cd2-4e995ec35d50.png)
+
+## Mission 3: Working with default values
+#### Task 1
+
+Mr. Carl Merkel owns a small business that sells mobile devices called “CM Mobiles” in Harrow, London. He wants to create a database to store key information about customers' addresses including customer ID, street, postcode and town name. The list of columns need for the table are:
+* Customer ID	
+* Street	
+* Postal Code	
+* Town
+
+Most customers are living in Harrow area and come from the same postcode “HA97DE” write the SQL statement to declare both the postcode and the town name with default values.
+
+Include a "not null" constarint in the Address cloumn
+
+Create an SQL statement  with relevant attributes and constraints, identify the column that requires default values.  
+
+![30](https://user-images.githubusercontent.com/106580846/230358778-f0e78172-5009-46da-aaa4-aa4af4014c81.png)
+
+Display the columns from the Address table to show the constraints used 
+
+
+![31](https://user-images.githubusercontent.com/106580846/230358819-f086190b-9455-4cef-8317-3c1ba305bac9.png)
+
+
+
+
 
