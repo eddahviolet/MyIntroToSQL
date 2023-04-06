@@ -3,7 +3,7 @@ SQL seemed complex to me though I had previously never taken the time to know an
 
 This repo is my first exercises working with MySQL. Enjoy
 
-## Mission 1:: Working with numerical values in a database. 
+## Mission 1:Working with numerical values in a database. 
 #### Task 1
 
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices. He wants to create a database and a devices table to store key information about mobile devices. This information includes: 
@@ -33,16 +33,15 @@ Display columns from the table to display the numerical data types used (int & d
 Mr. Merkel wants to create another basic table in the database to store data about the stock of the devices including device ID, quantity available in the stock and total available cost of the quantity. 
 
 *	Identify an appropriate table name to create, given the information provided. 
+Table name: Stock 
 *	Identify columns that should be available in this table and define them with the appropriate data types.
+    -Device id INT
+
+    -Quantity INT 
+
+    -Total cost: Decimal
+
 *	Write the full SQL statement that creates the table and columns.
-
-table name: Stock 
-
-Device id INT
-
-Quantity INT 
-
-Total cost: Decimal
 
 Create the stock table with the required columns
 
@@ -52,17 +51,15 @@ Display columns from the table to display the numerical data types used (int & d
 
 ![12](https://user-images.githubusercontent.com/106580846/230353144-e3b3e987-bd9a-437a-ba3e-b8d33f23db55.png)
 
+## Mission 2:Working with strings
 
-
-
-
-
+#### Task 1
 
 Mr. Carl Merkel wants to create a new table to store key information about customers such as 
 
-•	username
-•	full name 
-•	email address
+*	username
+*	full name 
+*	email address
 
 Create the customers table with the required columns
 
@@ -72,5 +69,23 @@ Display the columns from the customers table to show the string datatypes used (
 
 ![colums from customers](https://user-images.githubusercontent.com/106580846/204786867-175384f0-ec13-436d-b196-395191ac4c36.png)
 
+#### Task 2
+Mr. Carl Merkel wants to create another basic table in the cm_devices database to store the customers' feedback. This table need to include three columns:
 
+*	Feedback ID column
+*	Feedback type column with a maximum of 100 characters
+*	A comment column with a maximum of 500 characters
+
+The data types for the columns will be:
+* Feedback id: CHAR(8)
+* Category: VARCHAR(100)
+* Comment:  TEXT(500)  
+* 
+Create the Feedback table with the required columns
+
+![20](https://user-images.githubusercontent.com/106580846/230355181-b22fab00-bc36-4dba-bbdb-c35094dab123.png)
+
+Display the columns from the Feedback table to show the string datatypes used 
+
+![21](https://user-images.githubusercontent.com/106580846/230355222-249a20dd-6cfb-4652-9cd2-4e995ec35d50.png)
 
